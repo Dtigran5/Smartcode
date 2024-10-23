@@ -1,0 +1,1 @@
+Calling function test, with args: () and kwargs: {}Function test returned NoneCalling function test, with args: () and kwargs: {}Function test returned None
